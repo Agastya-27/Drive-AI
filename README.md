@@ -1,9 +1,5 @@
 # Drive AI
 
-A complete Warning System for Drivers using Artificial Intelligence and Computer Vision.
-
-## Project Description
-
 Drive AI is a complete Warning System for Drivers that uses Artificial Intelligence and Computer Vision.
 
 ### Lane Change Detection
